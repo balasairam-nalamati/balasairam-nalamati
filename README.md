@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate to learn new things
-- 📫 How to reach me on sairamnalamati2050@gmail.com
+- 📫 reach me on sairamnalamati2050@gmail.com
 
 <!---
 balasairam-nalamati/balasairam-nalamati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
